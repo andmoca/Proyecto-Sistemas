@@ -1,2 +1,2 @@
 # Proyecto-Sistemas
-Manual de instalacion de Packer y TrueNAS
+Manual de instalacion y configuracion de Packer,docker y TrueNAS
